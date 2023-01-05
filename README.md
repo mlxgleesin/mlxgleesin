@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on @myhexin.com
+- 📫 How to reach me: lihao7364@gmail.com
+- ⚡ Site: https://leesin.cloud
 <!--
 **leesinnocry/leesinnocry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
