@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi guys 👋
 
-- 🔭 I’m currently working on @myhexin.com
-- 📫 How to reach me: lihao7364@gmail.com
-- ⚡ Site: https://leesin.cloud
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mlxgleesin&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
+a Web Developer.
+
+- 🎨 Blog: https://leesin.cloud
+- 🏗 Focus on Web
+  - JavaScript, Node.js
+- 📫 Ping me by [Email](mailto:lihao7364@gmail.com)
 <!--
 **leesinnocry/leesinnocry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
