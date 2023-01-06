@@ -4,10 +4,10 @@
 
 a Web Developer.
 
-- 🎨 Blog: https://leesin.cloud
-- 🏗 Focus on Web
+- 🔭 blog: https://leesin.cloud
+- 🌱 focus on Web
   - JavaScript, Node.js
-- 📫 Ping me by [Email](mailto:lihao7364@gmail.com)
+- 📫 Ping me by [email](mailto:lihao7364@gmail.com)
 <!--
 **leesinnocry/leesinnocry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
