@@ -4,7 +4,7 @@
 
 a Web Developer.
 
-- 🔭 blog: https://leesin.cloud
+- 🤔 blog: https://leesin.cloud
 - 🌱 focus on Web
   - JavaScript, Node.js
 - 📫 Ping me by [email](mailto:lihao7364@gmail.com)
