@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mlxgleesin&theme=merko&hide_title=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlxgleesin&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlxgleesin&layout=compact" />
 
 a Web Developer.
 
