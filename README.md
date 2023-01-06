@@ -1,6 +1,7 @@
 ### Hi guys 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mlxgleesin&theme=merko&hide_title=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlxgleesin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 a Web Developer.
 
