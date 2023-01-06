@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mlxgleesin&theme=merko&hide_title=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlxgleesin&layout=compact" />
+
 
 a Web Developer.
 
@@ -11,7 +11,7 @@ a Web Developer.
 - 📫 Ping me by [email](mailto:lihao7364@gmail.com)
 <!--
 **leesinnocry/leesinnocry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlxgleesin&layout=compact" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
